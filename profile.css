@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+#brandimg {
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
+#mybtn{
+    width: 200px;
+    border-radius: 10px;
+}
+.containerofbtn {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.imgicon {
+    width: 30px;
+    height: 30px;
+}
+#row1 {
+    margin-bottom: 30px;
+}
+#row2 {
+    margin-bottom: 30px;
+}
+#row3 {
+    margin-bottom: 30px;
+}
+#myimgportfolio {
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.sidebyside {
+    display: flex;
+}
